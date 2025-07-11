@@ -25,8 +25,13 @@ Transform your writing with these powerful modes:
 
 ## 🚀 Quick Start
 
+### 📋 Prerequisites
+- **Text Enhancer Chrome Extension**: Required for AI text enhancement features. Install from the Chrome Web Store.
+- **Launch Script Permission**: Make the launch script executable: `chmod +x launch_doodle.sh`
+
 ### Option 1: Launch Script (Recommended for macOS) 🍎
 ```bash
+chmod +x launch_doodle.sh
 ./launch_doodle.sh
 ```
 
